@@ -17,5 +17,5 @@
 </p>
 
 <h3 align="left">🧠 Skills & Tools I Know:</h3>
-[![My Skills](https://skillicons.dev/icons?i=git,github,python,&theme=light)](https://skillicons.dev)
+(https://skillicons.dev/icons?i=git,github,python,&theme=light)](https://skillicons.dev)
 
