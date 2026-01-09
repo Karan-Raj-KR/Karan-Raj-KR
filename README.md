@@ -16,7 +16,7 @@
 <a href="https://instagram.com/karan.rajkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karan.rajkr" height="30" width="40" /></a>
 </p>
 
----
+--
 
 ## 🧠 Skills & Tools I Know:
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,javascript,tailwindcss,bootstrap,git,github,vscode,obsidian,vercel&theme=light)](https://skillicons.dev)
