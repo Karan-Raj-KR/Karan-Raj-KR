@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karan Raj K R</h1>
-<h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
+<h3 align="center">A Confused Student/Dev from India </h3>
 
 
 - 🔭 Working on my personal [my portfolio](https://karanrajkr.vercel.app/) & frontend projects
