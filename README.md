@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Karan Raj K R</h1>
 <h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
 
-- 🔭 I’m currently working on [my portfolio](https://karanrajkr.vercel.app/)
 
-- 🔭 Working on my personal portfolio & frontend projects
+- 🔭 Working on my personal [my portfolio](https://karanrajkr.vercel.app/) & frontend projects
 
 - 🌱 Improving my skills in JavaScript, Python, and modern CSS
 
