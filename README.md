@@ -26,6 +26,7 @@
 <a href="https://discord.com/users/karanrajkr" target="blank">
   <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
 </a>
+<img src="https://skillicons.dev/icons?i=discord" /> **karanrajkr**
 
 
 ## 🧠 Skills & Tools I Know:
