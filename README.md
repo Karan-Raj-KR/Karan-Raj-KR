@@ -16,16 +16,12 @@
 <a href="https://instagram.com/karan.rajkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karan.rajkr" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">🧠 Skills & Tools I Know:</h3>
-(https://skillicons.dev/icons?i=git,github,python,&theme=light)](https://skillicons.dev)
 
 
-## Skill stack
-<!-- Skill icons provided by skill-icons. Full icon list and names:
-     https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,terraform,python,typescript,nodejs,figma&theme=light)](https://skillicons.dev)
+## 🧠 Skills & Tools I Know:
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,javascript,tailwindcss,bootstrap,git,github,vscode,obsidian,vercel&theme=light)](https://skillicons.dev)
 
-**Also comfortable with**: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
+
 
 
 ---
