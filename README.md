@@ -19,3 +19,14 @@
 <h3 align="left">🧠 Skills & Tools I Know:</h3>
 (https://skillicons.dev/icons?i=git,github,python,&theme=light)](https://skillicons.dev)
 
+
+## Skill stack
+<!-- Skill icons provided by skill-icons. Full icon list and names:
+     https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,terraform,python,typescript,nodejs,figma&theme=light)](https://skillicons.dev)
+
+**Also comfortable with**: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
+
+
+---
+
