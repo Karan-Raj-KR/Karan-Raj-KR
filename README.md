@@ -3,9 +3,11 @@
 
 - 🔭 I’m currently working on [my portfolio](https://karanrajkr.vercel.app/)
 
-- 🌱 I’m currently learning **Javascript and Python**
+- 🔭 Working on my personal portfolio & frontend projects
 
-- 👨‍💻 All of my projects are available at [https://karanrajkr.vercel.app/](https://karanrajkr.vercel.app/)
+- 🌱 Improving my skills in JavaScript, Python, and modern CSS
+
+- ⚡ Exploring AI tools, PRDs, and prompt engineering
 
 - 📫 How to reach me **karanrajkr2008@gmail.com**
 
