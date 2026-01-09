@@ -23,10 +23,10 @@
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
 
-<a href="https://discord.com/users/karanrajkr" target="blank">
+<a href="https://discord.gg/hCPq5XTj" target="blank">
   <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
 </a>
-<img src="https://skillicons.dev/icons?i=discord" /> **karanrajkr**
+
 
 
 ## 🧠 Skills & Tools I Know:
