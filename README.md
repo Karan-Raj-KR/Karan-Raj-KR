@@ -30,7 +30,7 @@
 
 
 ## 🧠 Skills & Tools I Know:
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,javascript,tailwindcss,bootstrap,git,github,vscode,obsidian,vercel,kaggle,n8n&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,javascript,tailwindcss,bootstrap,git,github,vscode,vercel,kaggle,n8n&theme=light)](https://skillicons.dev)
 
 
 ## 🌱 Currently Learning & Exploring:
