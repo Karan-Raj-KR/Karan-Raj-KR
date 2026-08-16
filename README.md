@@ -80,7 +80,7 @@
 ---
 
 <div align="center">
-<sub>Open to hackathon teams, backend/AI collabs, and client work → <a href="mailto:karanrajkr2008@gmail.com">karanrajkr2008@gmail.com</a></sub>
+<sub>Open to hackathon teams, backend/AI collabs, and client work → <a href="mailto:mail@karanrajkr.com">mail@karanrajkr.com</a></sub>
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39ff14,50:1a3a1a,100:0a0a0a&height=90&section=footer" width="100%"/>
 </div>
