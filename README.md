@@ -77,15 +77,6 @@ I build AI and backend systems that go into production, not into a slide. A Chro
 
 ---
 
-### 📊 GitHub
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Karan-Raj-KR&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-Raj-KR&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9&langs_count=8" />
-</div>
-
----
-
 <div align="center">
 <sub><b>Open to:</b> AI/backend collaborations · hackathon teams · client work at KĀRYO<br/>
 → <a href="mailto:mail@karanrajkr.com">mail@karanrajkr.com</a> · <a href="https://karanrajkr.com">karanrajkr.com</a></sub>
